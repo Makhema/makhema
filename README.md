@@ -21,6 +21,7 @@
 - Java
 - Python
 - C++
+- R
 
 ### Technologies & Tools
 - JavaFX
@@ -31,9 +32,10 @@
 - SQL
 
 ### Areas of Interest
-- Software Engineering
+- Software Development
 - Data Structures & Algorithms
 - Mathematical Modelling
+- Risk & Quantitative Analysis 
 - Data Analytics
 - Actuarial Science
 
@@ -58,17 +60,19 @@ House planning and kitchen scaping solutions using geometric and design principl
 ### Nexa Mathematical Room
 Mathematics education platform focused on helping students understand mathematical concepts.
 
+### Coal Quality Detection
+
 ---
 
 ## GitHub Statistics
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=makhemamotsoetsoana&show_icons=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=makhemamotsoetsoana&layout=compact)
 
 ---
 
 ## Connect With Me
 
-- LinkedIn: Your LinkedIn URL
+- LinkedIn: www.linkedin.com/in/makhema-motsoetsoana-025507252
 - Email: motsoetsonamalebona@gmail.com
