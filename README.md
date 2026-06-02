@@ -1,8 +1,10 @@
-# Hi there 👋, I'm Makhema Motsoetsoana
+# Hi there 👋, I'm Makhema Rethabile Motsoetsoana
 
 ## About Me
 🎓 BSc Mathematical Science (Mathematics and Computer Science)
+
 📍 Johannesburg, South Africa
+
 💻 Passionate about Software Development, Data Structures & Algorithms, and Mathematics and Statistics fields.
 📚 Currently studying - Advanced Data Structures, Real Analysis, and Discrete Mathematics
 📚 Modules studied - Calculus(Single&Multi-Variable functions), Inferential&Discreptive Statistics, Applied Mathematics 1, Computer Competence(Microsoft Office), Linear Algebra.
