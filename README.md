@@ -6,8 +6,11 @@
 📍 Johannesburg, South Africa
 
 💻 Passionate about Software Development, Data Structures & Algorithms, and Mathematics and Statistics fields.
+
 📚 Currently studying - Advanced Data Structures, Real Analysis, and Discrete Mathematics
+
 📚 Modules studied - Calculus(Single&Multi-Variable functions), Inferential&Discreptive Statistics, Applied Mathematics 1, Computer Competence(Microsoft Office), Linear Algebra.
+
 🚀 Founder of Nexa Plans and Nexa Mathematical Room
 
 ---
