@@ -55,7 +55,7 @@
 ## Current Projects
 
 ### Nexa Plans
-House planning and kitchen scaping solutions using geometric and design principles.
+House planning 2D and 3D and kitchen scaping solutions using geometric and design principles.
 
 ### Nexa Mathematical Room
 Mathematics education platform focused on helping students understand mathematical concepts.
