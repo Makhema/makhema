@@ -1,4 +1,4 @@
-# Hi there 👋, I'm Makhema Rethabile Motsoetsoana
+# Hi there 👋, I am Makhema Rethabile Motsoetsoana
 
 ## About Me
 🎓 BSc Mathematical Science (Mathematics and Computer Science)
@@ -22,6 +22,7 @@
 - Python
 - C++
 - R
+- Assembly
 
 ### Technologies & Tools
 - JavaFX
